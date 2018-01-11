@@ -1,8 +1,5 @@
 {
-	"name": "dumketo Amp theme",
+	"name": "Dumketo Amp Theme",
 	"version": "1.5",
-	"download_url": "https://github.com/dumketo/dumketo-amp/blob/master/dumketo-amp-1.5.zip",
-
-	"author": "Hasan Ahmed Jobayer",
-	"author_homepage": "http://example.com/",
+	"download_url": "https://github.com/dumketo/dumketo-amp/raw/master/dumketo-amp-1.5.zip"
 }
